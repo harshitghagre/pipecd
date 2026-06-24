@@ -56,3 +56,5 @@ The Netlify build configuration is defined in [`netlify.toml`](./netlify.toml). 
 - **Security headers**: X-Frame-Options, X-XSS-Protection, etc.
 
 When a new release version is created, the `hack/gen-release-docs.sh` script automatically updates the redirect target in `netlify.toml`.
+
+<!-- test deploy preview -->
